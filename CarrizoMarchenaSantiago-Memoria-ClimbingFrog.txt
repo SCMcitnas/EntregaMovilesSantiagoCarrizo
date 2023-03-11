@@ -1,0 +1,25 @@
+El juego cumple con todos los requisitos basicos para aprobar el proyecto y a mayores he decidido
+añadir algunos para complementar la nota.
+
+Cumple los requisitos de:
+-Icono propio (hecho por mi)
+-Pantalla completa
+-Musica y sonidos (libreria sin copyright)
+-Fuente no nativa de android (libreria sin copyright)
+-Multiidioma (Español e Inglés)
+-Sprites animados (todos hechos por mi)
+-Deteccion de colisiones
+-Guardado de datos (en mi caso utilice Shared Preferences al ser el mas comodo para guardar int)
+-Multiples niveles/modos de juego
+-Eventos touch adicionales
+-Scroll
+-Sprites modularizados
+-Creacion propia de fisicas
+
+Y dentro de las escenas tenemos:
+-Menu principal
+-Ayuda
+-Creditos
+-Opciones (con opcion a quitar sonido y musica)
+-Records (con tabla de clasificacion)
+-Pantalla de victoria/derrota diferente dependiendo del modo de juego

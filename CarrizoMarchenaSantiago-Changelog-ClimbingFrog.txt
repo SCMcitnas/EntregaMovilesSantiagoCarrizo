@@ -1,0 +1,44 @@
+Changelog ClimbingFrog
+
+暇0.1(Semana Enero 30):
+
+	-Creacion de primeros objetos
+	-Implementacion de algunas fisicas basicas (movimiento)
+	-Uso de imagenes de ejemplo
+	
+	意otas del programador:En esta semana me he centrado en conocer la libreria con la que tengo que 
+				trabajar para este proyecto por lo que comienzo creando algunas clases
+暇0.2(Semana Febrero 6):
+
+	-Creacion de objetos finales
+	-Implementar algunos eventos onTouch
+
+	意otas del programador:En esta semana he progresado despacio pero creando clases y variables
+				necesarias para el resultado final
+暇0.5(Semana Febrero 20):
+
+	-Creacion de sprites
+	-Creacion de imagenes del juego (fondo)
+	-Implementadas fisicas finales (revote, creacion de nuevos objetos, movimiento bidimensional)
+
+	意otas del programador:El programa ya esta tomando forma y las bases del juego estan establecidas
+暇0.7(Semana Febrero 27):
+
+	-Creacion de menus
+	-Creacion de imagenes de los menus
+	-Nuevo icono
+	-Sistema de puntuacion y de vidas
+
+	意otas del programador:El juego ya esta finalizado y pulido, falta crear todo lo relacionado con
+				menus, guardado de datos y algunos elementos m嫳, ademas de un selector
+				de niveles donde se cambien las variables del juego
+暇1.0(Semana Marzo 6):
+
+	-Implementacion de musica
+	-Implementacion de sonidos
+	-Implementacion de guardado de datos
+	-Creacion de diferentes escenas basicas (tutorial, creditos, pantalla de victoria/derrota)
+	-Finalizacion del proyecto
+
+	意otas del programador:En esta ultima semana he implementado todos los elementos faltantes en el
+				programa ademas de crear y a鎙dir algunos detalles y pulir bugs
