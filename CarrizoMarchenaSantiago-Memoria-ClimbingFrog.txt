@@ -23,3 +23,4 @@ Y dentro de las escenas tenemos:
 -Opciones (con opcion a quitar sonido y musica)
 -Records (con tabla de clasificacion)
 -Pantalla de victoria/derrota diferente dependiendo del modo de juego
+

@@ -42,3 +42,9 @@ Changelog ClimbingFrog
 
 	·Notas del programador:En esta ultima semana he implementado todos los elementos faltantes en el
 				programa ademas de crear y añadir algunos detalles y pulir bugs
+
+·v1.1:
+	-Implementar nuevas imagenes decorativas
+	-Implementar otros fondos para diferentes menus
+	-Cambios minimos en el codigo para pulir bugs
+	-Guardado de opciones
