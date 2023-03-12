@@ -48,3 +48,8 @@ Changelog ClimbingFrog
 	-Implementar otros fondos para diferentes menus
 	-Cambios minimos en el codigo para pulir bugs
 	-Guardado de opciones
+
+$v1.2
+	-Implementar un boton de pausa durante el juego
+	-Ajuste de dificultad
+	-Ajuste de velocidad del juego
